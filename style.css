@@ -1,0 +1,46 @@
+body{
+    display: block;
+    background-color: #000000;
+    text-align: center;
+    margin: 0;
+    font-family: 'Noto Serif Tangut', serif;
+}
+h1{
+    color: #CF7500;
+}
+h2{
+    color: #F0A500;
+}
+h3{
+    color: #CF7500;
+}
+p{
+    color: #F4F4F4;
+}
+div{
+    display: block;
+}
+.top-container{
+    position: relative;
+    padding-top: 75px;
+}
+.mid-container{
+    margin: 70px 0;
+}
+.bottom-container{
+    padding: 50px 0 20px
+}
+.summary{
+    margin: auto;
+    width: 50%;
+    text-align: left;
+}
+.btn{
+    text-decoration: none;
+    font-family: 'Noto Serif Tangut', serif;
+    font-style: italic;
+    color: #F4F4F4;
+    background-color: #CF7500;
+    border-radius: 10px;
+    padding: 5px;
+}
